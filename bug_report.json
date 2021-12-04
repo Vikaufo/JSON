@@ -1,1 +1,12 @@
-
+{
+    "id": 123,
+    "title": "Nothing happens when you press the button 'Edit Profile'",
+    "severity": "Major",
+    "priority": "Medium",
+    "description": {
+        "steps_to_reproduce": "1 Open the 'Menu'  2. Go to 'Profile' 3. Click 'Edit Profile'",
+        "actual_result": "Stay on the page 'Profile'",
+        "expected_result": "The profile editing window opens"
+    },
+    "assigned_to": "Automatically"
+}
