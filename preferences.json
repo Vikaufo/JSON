@@ -1,0 +1,12 @@
+:{
+    "preferences": {
+        "favorite_series": "Stranger Things",
+        "favorite_season": "spring",
+        "i_would_like_to_visit": "Norway",
+        "favorite_book": "The Minds of Billy Milligan",
+        "favorite_games": [
+            "RDR2",
+            "It takes two"
+        ]
+    }
+}
