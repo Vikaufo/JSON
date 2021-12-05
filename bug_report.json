@@ -4,7 +4,7 @@
     "severity": "Major",
     "priority": "Medium",
     "description": {
-        "steps_to_reproduce": "1 Open the 'Menu'  2. Go to 'Profile' 3. Click 'Edit Profile'",
+        "steps_to_reproduce": "1. Log in with your username and password 2. Open the 'Menu'  3. Go to 'Profile' 4. Click 'Edit Profile'",
         "actual_result": "Stay on the page 'Profile'",
         "expected_result": "The profile editing window opens"
     },
