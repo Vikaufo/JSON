@@ -10,6 +10,7 @@
  3. **Внутри локального JSON создать файл “new.json”.**
 
 cd JSON 
+
 touch new.json
 
  4. **Добавить файл под гит.**
@@ -31,7 +32,9 @@ vim new.json (i - инфа о себе) esc :wq
  8. **Отправить изменения на внешний репозиторий.**
  
 git add .
+
 git commit -m "Modifided file"
+
 git push
 
  9. **Создать файл preferences.json**
@@ -45,11 +48,13 @@ vim preferences.json (i - предпочтения) esc :wq
  11. **Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON**
  
 touch skills.json
+
 vim (i - навыки) esc :wq
 
  12. **Отправить сразу 2 файла на внешний репозиторий.**
  
 git add . && git commit -m "Add preferences and skills" 
+
 git push
 
  13. **На веб интерфейсе создать файл bug_report.json.**
